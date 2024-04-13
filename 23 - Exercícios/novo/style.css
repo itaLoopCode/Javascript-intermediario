@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    width: 655px;
+}
+.items {
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+
+.acordeon{
+    position: relative;
+}
+
+.acordeon .ilustracao{
+    position: absolute;
+    left: -90px;
+}
